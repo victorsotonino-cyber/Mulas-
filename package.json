@@ -1,7 +1,6 @@
 {
-  "name": "bot-discord-moderacion",
+  "name": "gang-bot",
   "version": "1.0.0",
-  "description": "Bot de moderacion y utilidad",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
